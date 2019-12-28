@@ -1,2 +1,2 @@
 # firstProject
-python vigeneer cipher
+python vigeneer cipher with encryptor and decryptor
